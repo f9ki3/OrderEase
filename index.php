@@ -1,10 +1,5 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirected</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php
+
+header ('location: admin_order_ease/login.php');
+
+?>
